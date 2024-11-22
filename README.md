@@ -5,8 +5,8 @@ The **Brochure Generator** is a Python-based application that takes a website UR
 ## Test It Out
 [Test it on HuggingFace Spaces](https://huggingface.co/spaces/onurnsfw/brochures_generator) with your own GROQ_API_KEY
 
-
-
+## Preview
+![alt text](https://github.com/OnurAsimIlhan/brochures_generator/blob/main/br.png)
 ## Features
 
 - **Website Scraping**: Fetches and processes the content of a website to retrieve the relevant details, excluding irrelevant pages like terms of service and privacy policies.
